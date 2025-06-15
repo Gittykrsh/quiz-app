@@ -22,9 +22,7 @@ This is a GUI-based Quiz Application built using **Python's Tkinter** library. I
 
 ## 🖥️ GUI Preview
 
-- Fixed-size 800x600 centered window
-- Main quiz screen: Questions, 4 Options, Timer, Navigation
-- Result screen: Summary, Score, Colored Sections (Wrong, Missed, Review Later)
+![Preview](https://github.com/user-attachments/assets/911fa308-3d7e-4d1b-9b0f-f9a9d973072b)
 
 ---
 
