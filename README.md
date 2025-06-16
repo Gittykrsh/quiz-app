@@ -91,6 +91,7 @@ After submission:
 ## 📂 Folder Structure
 
 ```
+quiz_app/
 ├── quiz.py              # Main app
 ├── questions.json       # MCQ question data
 └── README.md            # This file
