@@ -1,5 +1,5 @@
 
-# 🧠 Quiz App Using Python Tkinter
+# 🧠 Quiz App Using Tkinter
 
 This is a GUI-based Quiz Application built using **Python's Tkinter** library. It presents multiple-choice questions from a JSON file and allows users to answer, review later, navigate between questions, track time, and finally view detailed results.
 
